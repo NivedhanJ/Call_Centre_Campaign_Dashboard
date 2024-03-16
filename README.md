@@ -1,13 +1,13 @@
-# Call Center Campaign Dahboard-
+# Call Centre Campaign Dahboard-
 
 
 In this project, I took a Campaign datasets from my Previous company and done all the visualization and Dashboard creation using Power BI
 
-This is 2023 Customer Google Leads Data. Customers given the Request through the google for Loan and Finance purpose, call center team will call those customers and check out for eligibility for the Loan and generate Reference number and process the Loan, this hierarchy will commit through within some minutes.
+This is 2023 Customer Google Leads Data. Customers given the Request through the google for Loan and Finance purpose, call centre team will call those customers and check out for eligibility for the Loan and generate Reference number and process the Loan, this hierarchy will commit through within some minutes.
 
 🎯 Main goal of this project
 
-✨ In this Analysis we will give the Insights about the comparison between call center data and google leads data, Power BI will publish the Live Automated Interative Dashboard with the clients to provide business insights with future decision with those visuals. 
+✨ In this Analysis we will give the Insights about the comparison between call centre data and google leads data, Power BI will publish the Live Automated Interative Dashboard with the clients to provide business insights with future decision with those visuals. 
 
 📈 Process
 
